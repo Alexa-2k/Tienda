@@ -10,8 +10,15 @@ namespace Tienda
             List<Producto> Productos = new List<Producto>();
 
             // Agregar productos correctamente instanciando clases derivadas
-            Productos.Add(new Perecedero("Queso", 20000.00m, "Lácteos", 2));
-            Productos.Add(new NoPerecedero("Leche en polvo", 10000.00m, "Lácteos", "Almacén"));
+            Productos.Add(new Perecedero("Queso", 20000.00m, "Perecedero", 2));
+            Productos.Add(new NoPerecedero("Leche en polvo", 10000.00m, "No Perecedero", "Lácteos"));
+            Productos.Add(new Perecedero("Leche", 450.0m, "Perecedero", 4));
+            Productos.Add(new Perecedero("Crema",950.0m,"Perecedero",24));
+            Productos.Add(new Perecedero("Queso untable",1550.0m,"Perecedero",1));
+            Productos.Add(new NoPerecedero("Lentejas",830.0m,"No Perecedero", "Legumbres"));
+            Productos.Add(new NoPerecedero("Gaseosa",3300.0m,"No Perecedero", "Bebidas"));
+            Productos.Add(new NoPerecedero("Pimienta en granos",530.0m,"No Perecedero","Condimentos"));
+
 
             // Calcular y mostrar el precio total de vender 5 productos de cada tipo
             foreach (var producto in Productos)
@@ -30,6 +37,7 @@ namespace Tienda
                 {
                     Console.WriteLine($"Días faltantes para vencimiento: {perecedero.DiasACaducar}\n");
                 }
+                Console.WriteLine("-------------------------------");
             }
         }
     }
