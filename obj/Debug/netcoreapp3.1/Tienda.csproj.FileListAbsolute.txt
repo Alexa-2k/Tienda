@@ -1,0 +1,13 @@
+C:\Users\Lore\source\repos\Tienda\bin\Debug\netcoreapp3.1\Tienda.exe
+C:\Users\Lore\source\repos\Tienda\bin\Debug\netcoreapp3.1\Tienda.deps.json
+C:\Users\Lore\source\repos\Tienda\bin\Debug\netcoreapp3.1\Tienda.runtimeconfig.json
+C:\Users\Lore\source\repos\Tienda\bin\Debug\netcoreapp3.1\Tienda.runtimeconfig.dev.json
+C:\Users\Lore\source\repos\Tienda\bin\Debug\netcoreapp3.1\Tienda.dll
+C:\Users\Lore\source\repos\Tienda\bin\Debug\netcoreapp3.1\Tienda.pdb
+C:\Users\Lore\source\repos\Tienda\obj\Debug\netcoreapp3.1\Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\source\repos\Tienda\obj\Debug\netcoreapp3.1\Tienda.AssemblyInfoInputs.cache
+C:\Users\Lore\source\repos\Tienda\obj\Debug\netcoreapp3.1\Tienda.AssemblyInfo.cs
+C:\Users\Lore\source\repos\Tienda\obj\Debug\netcoreapp3.1\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\Lore\source\repos\Tienda\obj\Debug\netcoreapp3.1\Tienda.dll
+C:\Users\Lore\source\repos\Tienda\obj\Debug\netcoreapp3.1\Tienda.pdb
+C:\Users\Lore\source\repos\Tienda\obj\Debug\netcoreapp3.1\Tienda.genruntimeconfig.cache
